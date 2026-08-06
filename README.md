@@ -27,5 +27,5 @@ Computer-vision system for identifying manufacturing defects using transfer lear
 
 ## Connect
 
-- LinkedIn: [Add link]
-- Email: [Add professional email]
+- LinkedIn: https://www.linkedin.com/in/matthew-bretscher-a88923235/
+- Email: mrbretscher7@gmail.com
