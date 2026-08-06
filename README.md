@@ -1,16 +1,31 @@
-## Hi there 👋
+# Matthew Bretscher
 
-<!--
-**Mrbretscher/Mrbretscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Technologist and aspiring AI Engineer based in Knoxville, Tennessee.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### OpsGuard
+Predictive-maintenance machine-learning system focused on equipment-failure risk,
+evaluation, reproducibility, and deployment-ready engineering practices.
+
+### TicketPilot
+NLP and retrieval system for classifying and assisting with IT support tickets.
+
+### DefectVision
+Computer-vision system for identifying manufacturing defects using transfer learning.
+
+## Technical Focus
+
+- Python
+- Scikit-learn
+- TensorFlow
+- Machine learning evaluation
+- MLOps
+- Data pipelines
+- Model deployment
+- Windows and systems administration
+
+## Connect
+
+- LinkedIn: [Add link]
+- Email: [Add professional email]
