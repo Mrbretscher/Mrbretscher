@@ -6,13 +6,13 @@ IT Technologist and aspiring AI Engineer based in Knoxville, Tennessee.
 
 ### OpsGuard
 Predictive-maintenance machine-learning system focused on equipment-failure risk,
-evaluation, reproducibility, and deployment-ready engineering practices.
+evaluation, reproducibility, and deployment-ready engineering practices. (Milestone 1 achieved)
 
 ### TicketPilot
-NLP and retrieval system for classifying and assisting with IT support tickets.
+NLP and retrieval system for classifying and assisting with IT support tickets. (In Progress)
 
 ### DefectVision
-Computer-vision system for identifying manufacturing defects using transfer learning.
+Computer-vision system for identifying manufacturing defects using transfer learning. (In Progress)
 
 ## Technical Focus
 
