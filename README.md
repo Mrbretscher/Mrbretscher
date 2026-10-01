@@ -1,6 +1,6 @@
 # Matthew Bretscher
 
-IT Technologist and aspiring AI Engineer based in Knoxville, Tennessee.
+IT Technologist based in Knoxville, Tennessee.
 
 ## Featured Projects
 
