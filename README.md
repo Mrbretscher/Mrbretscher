@@ -4,7 +4,7 @@ IT Technologist based in Knoxville, Tennessee.
 
 ## Featured Projects
 
-### OpsGuard
+### [OpsGuard](https://github.com/Mrbretscher/opsguard)
 Predictive-maintenance machine-learning system focused on equipment-failure risk,
 evaluation, reproducibility, and deployment-ready engineering practices. (Milestone 1 achieved)
 
