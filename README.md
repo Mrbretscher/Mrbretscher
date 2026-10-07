@@ -8,7 +8,7 @@ IT Technologist based in Knoxville, Tennessee.
 Predictive-maintenance machine-learning system focused on equipment-failure risk,
 evaluation, reproducibility, and deployment-ready engineering practices. (Milestone 1 achieved)
 
-### TicketPilot
+### [TicketPilot]([url](https://github.com/Mrbretscher/TicketPilot))
 NLP and retrieval system for classifying and assisting with IT support tickets. (Milestone 1 achieved)
 
 ### DefectVision
