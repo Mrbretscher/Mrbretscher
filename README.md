@@ -16,7 +16,7 @@ Computer-vision system for identifying manufacturing defects using transfer lear
 
 ### [Survivor Calculator](https://github.com/Mrbretscher/Survivor-Calculator)
 Python analytics and prediction project using historical Survivor data to estimate elimination risk
-and winner probabilities, with a dashboard for exploring results. (Experimental)
+and winner probabilities, with a dashboard for exploring results. (For fun)
 
 ## Technical Focus
 
