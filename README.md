@@ -14,6 +14,10 @@ NLP and retrieval system for classifying and assisting with IT support tickets. 
 ### DefectVision
 Computer-vision system for identifying manufacturing defects using transfer learning. (In Progress)
 
+### [Survivor Calculator](https://github.com/Mrbretscher/Survivor-Calculator)
+Python analytics and prediction project using historical Survivor data to estimate elimination risk
+and winner probabilities, with a dashboard for exploring results. (Experimental)
+
 ## Technical Focus
 
 - Python
